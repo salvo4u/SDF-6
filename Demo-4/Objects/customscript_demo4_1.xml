@@ -1,0 +1,14 @@
+<scheduledscript scriptid="customscript_demo4_1">
+    <defaultfunction>execute</defaultfunction>
+    <name>SSDemo4</name>
+    <notifyowner>T</notifyowner>
+    <scriptfile>[/SuiteScripts/demo4_1.js]</scriptfile>
+    <scriptdeployments>
+        <scriptdeployment scriptid="customdeploy_demo4_1">
+            <isdeployed>T</isdeployed>
+            <loglevel>DEBUG</loglevel>
+            <status>NOTSCHEDULED</status>
+            <title>SS444</title>
+        </scriptdeployment>
+    </scriptdeployments>
+</scheduledscript>
