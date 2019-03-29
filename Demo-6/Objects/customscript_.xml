@@ -1,0 +1,14 @@
+<suitelet scriptid="customscript_">
+    <defaultfunction>execute</defaultfunction>
+    <name>Script for Demo-6</name>
+    <notifyowner>T</notifyowner>
+    <scriptfile>[/SuiteScripts/demo6-1.js]</scriptfile>
+    <scriptdeployments>
+        <scriptdeployment scriptid="customdeploy_">
+            <isdeployed>T</isdeployed>
+            <loglevel>DEBUG</loglevel>
+            <status>TESTING</status>
+            <title>Deployment1</title>
+        </scriptdeployment>
+    </scriptdeployments>
+</suitelet>
