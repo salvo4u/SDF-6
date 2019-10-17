@@ -1,11 +1,11 @@
 <deploy>
-    <!-- configuration>
+    <configuration>
         <path>~/AccountConfiguration/*</path>
-    </configuration-->
+    </configuration>
     
-    <!-- files>
+    <files>
         <path>~/FileCabinet/*</path>
-    </files-->
+    </files>
     
     <objects>
         <path>~/Objects/*</path>

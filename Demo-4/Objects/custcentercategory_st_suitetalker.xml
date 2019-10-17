@@ -1,0 +1,19 @@
+<centercategory scriptid="custcentercategory_st_suitetalker">
+  <center>BASIC</center>
+  <centertab>BASICCENTERCUSTOMIZATION</centertab>
+  <label>SuiteTalker</label>
+  <links>
+    <link>
+      <linklabel>SuiteTalker</linklabel>
+      <linkobject>[scriptid=customscript_st_mainscreen.customdeploy_st_mainscreen]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Setup</linklabel>
+      <linkobject>[scriptid=customrecord_st_configrecord]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

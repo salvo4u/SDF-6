@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_st_operation">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Operation</name>
+  <customvalues>
+    <customvalue scriptid="val_575505_t1151650_319">
+      <abbreviation>a</abbreviation>
+      <isinactive>F</isinactive>
+      <value>add</value>
+    </customvalue>
+    <customvalue scriptid="val_575506_t1151650_527">
+      <abbreviation>u</abbreviation>
+      <isinactive>F</isinactive>
+      <value>update</value>
+    </customvalue>
+  </customvalues>
+</customlist>

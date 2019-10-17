@@ -1,14 +1,24 @@
 <scheduledscript scriptid="customscript_demo4_1">
-    <defaultfunction>execute</defaultfunction>
-    <name>Demo1234</name>
-    <notifyowner>T</notifyowner>
-    <scriptfile>[/SuiteScripts/demo4_1.js]</scriptfile>
-    <scriptdeployments>
-        <scriptdeployment scriptid="customdeploy_demo4_1">
-            <isdeployed>T</isdeployed>
-            <loglevel>DEBUG</loglevel>
-            <status>NOTSCHEDULED</status>
-            <title>SS44445</title>
-        </scriptdeployment>
-    </scriptdeployments>
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>SSDemo4453</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <scriptfile>[/SuiteScripts/demo4_1.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_demo4_1">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>SS44445</title>
+      <recurrence>
+        <single>
+          <repeat></repeat>
+          <startdate>2019-02-05</startdate>
+          <starttime>12:30:00Z</starttime>
+        </single>
+      </recurrence>
+    </scriptdeployment>
+  </scriptdeployments>
 </scheduledscript>

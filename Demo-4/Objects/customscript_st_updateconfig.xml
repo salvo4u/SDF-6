@@ -1,0 +1,23 @@
+<bundleinstallationscript scriptid="customscript_st_updateconfig">
+  <afterinstallfunction>updateConfig</afterinstallfunction>
+  <afterupdatefunction></afterupdatefunction>
+  <beforeinstallfunction></beforeinstallfunction>
+  <beforeuninstallfunction></beforeuninstallfunction>
+  <beforeupdatefunction></beforeupdatefunction>
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>ST | Update Config</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <scriptfile>[/SuiteScripts/SuiteTalker/st_bi_setConfig.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_st_updateconfig">
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>ST | Update Config</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</bundleinstallationscript>
