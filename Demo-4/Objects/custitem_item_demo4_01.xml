@@ -24,7 +24,7 @@
   <fieldtype>TEXT</fieldtype>
   <globalsearch>F</globalsearch>
   <help></help>
-  <includechilditems>F</includechilditems>
+  <includechilditems>T</includechilditems>
   <isformula>F</isformula>
   <ismandatory>F</ismandatory>
   <isparent>F</isparent>
